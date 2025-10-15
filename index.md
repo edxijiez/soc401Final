@@ -5,14 +5,12 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Project Name
+# Soc 401 Final
 
-## The Team
+## Research Question
 
-**Project Lead/s:**
+**Immigration**
 
-**Data Science Lead/s:** 
 
-**DSSG Fellows:** 
 
 # Abstract or executive summary
