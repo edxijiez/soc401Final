@@ -1,6 +1,14 @@
 ---
 layout: page
-title: Method 1
+title: Analysis
 ---
 
+# Case Study #
 
+COMPAS Sentencing Algorithm (State v. Loomis):
+
+In early 2013, Wisconsin charged Eric Loomis with five criminal counts related to a drive-by shooting in La Crosse. Loomis denied participating in the shooting but admitted he had driven the same car involved later that evening, and pleaded guilty to two less severe charges (Brief of Defendant-Appellant, 2015). After that, the circuit court ordered a presentence investigation (PSI), which included a COMPAS risk assessment. The sentencing judge used the COMPAS risk assessment as one factor in determining Loomis's sentence, and gave him the maximum sentence with no probation (Brief of Defendant-Appellant, 2015). This case reveals algorithms' automation bias, in which people tend to give more authority to automated aids when facing high pressure and time constrained decision making. Some states (like New York) using COMPAS have conducted validation studies and demonstrated its reliability and accuracy, but Wisconsin hasn't conducted such studies based on Wisconsin's population statistics (Brief of Defendant-Appellant, 2015). Loomis's case was appealed to the Supreme Court, but was declined, and the state court's decision was upheld. This raises a concern that unlike New York, Wisconsin doesn't have a direct explanation of the algorithm or its training data set, thus the concern about COMPAS's reliability remains.
+
+Los Angeles Operation LASER & PredPol:
+
+Similar to COMPAS, Operation LASER (Los Angeles Strategic Extraction and Restoration), launched in 2011, used algorithms to identify "chronic offenders" and create risk scores based on factors like gang membership, police contacts, etc. In just six months in 2016, LAPD killed six men and boys in or around LASER zones, the victims were all Black or Latino (Stop LAPD Spying Coalition, 2019). LASER also used demographic profiling in which the police department would dispatch more enforcement to neighborhoods with high historical criminal data, which disproportionately affected neighborhoods that were targeted by overpolicing, especially neighborhoods that had high Black and Latino populations (Ryan-Mosley & Strong, 2020). LASER was shut down in 2019 (Puente, 2019), and the PredPol system which it used was found to have multiple problems including low accuracy, which was also similar to COMPAS. As a result, after the 2019 shut down of LASER, Santa Cruz, California banned predictive policing in 2020 (Ibarra, 2020). Although these were times when the mass application of AI hadn't matured yet, in January 2025, seven members of the House and Senate wrote to the Department of Justice calling for an end to DOJ funding of predictive policing projects until the DOJ could ensure that grant recipients would not use such systems in ways that had a discriminatory impact (Thomas, 2024). So even five years later today, we still cannot fully avoid algorithmic bias, and the best way of prevention is still outright banning.
