@@ -1,19 +1,11 @@
 ---
 layout: page
-title: Results
+title: Recommendations
 ---
 
-**Findings**
+**Policy Options**
+Any algorithmic tool must make its normative choices transparent: The COMPAS algorithm claims to make objective risk score assessment of defendants but it has been proven to be inaccurate. Throughout the whole process, the company (Northpointe/Equivant) makes decisions using mathematical parameters, which means the underlying process is hidden and lacks democratic oversight. This raises the problem that a private company is directly involved in policy decision making without democratic accountability. Therefore, algorithmic bias should be properly tested and disclosed before implementation, and companies should make clear statements regarding potential biases. Testing should involve comparisons with human decision making, and judges must not take whole accountability to the algorithm generated scores, there must be a deliberative process to determine final decisions.
 
-What were the outcomes of your analyses?
-What is your interpretation of those findings?
+Introduce community engagement for algorithm governance: Establishing community algorithm review boards in jurisdictions using predictive policing tools could help add some democracy. Board members should include residents from affected neighborhoods as the majority, with law enforcement representatives and technical experts in a minority role. The board should convene before algorithm deployment to review accuracy rates disaggregated by race and neighborhood and deployment maps showing patrol concentration. This community governance addresses the power asymmetry between stakeholders and makes sure those who take the consequences of algorithmic bias have the control over whether and how these tools are used. 
 
-**Deliverables**
-
-What artifacts or outputs did you produce?
-How will these deliverables be used? 
-
-**Outcomes**
-
-How have your stakeholders responded to your deliverables? 
-What impact has your project had, or do you anticipate it having? 
+Uses algorithms to identify socially vulnerable individuals and groups needing support: Beyond passive crime prediction, algorithms could also be used to help fundamentally reduce crime occurrence. Using algorithms to identify individuals and groups in need would help social workers offer assistance and resources more effectively. Poor neighborhoods with higher crime rates also tend to lack resources, especially education, and providing education could significantly reduce crime rates (Swisher & Dennison, 2016). And offering resources is also a good way to rebuild trust between marginalized communities and governmental institutions. Newark has already successfully used risk terrain modeling to identify abandoned housing which could attract crimes, and develop affordable housing (Sankin, 2024), demonstrating that predictive technologies can be used without enforcement. 
