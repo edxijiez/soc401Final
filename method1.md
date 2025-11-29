@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Analysis
+title: Case Study
 ---
-
-**Case Study**
 
 COMPAS Sentencing Algorithm (State v. Loomis):
 
