@@ -3,7 +3,7 @@ layout: page
 title: Analysis
 ---
 
-# Case Study #
+**Case Study**
 
 COMPAS Sentencing Algorithm (State v. Loomis):
 
