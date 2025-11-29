@@ -1,24 +1,13 @@
 ---
 layout: page
-title: Motivation
+title: Background
 ---
 
-**Questions**
+**Problem Statement**
 
-What question(s) are you answering?
-What need are you filling?
+There is significant racial bias in predictive policing algorithms. The COMPAS algorithm used by judges across multiple U.S. states to predict recidivism risk has been proven to make inaccurate predictions. The COMPAS algorithm presents judges with risk scores from 1-10, which have a high false positive rate (jailing defendants who wouldn't reoffend). At a medium risk score, it yields a 40.1% false positive rate, which means 40.1% of defendants would be wrongly jailed if the judge set a medium threshold and trusted the algorithm's prediction (Engel et al., 2025). Additionally, there is also age and race bias within the algorithm in which young defendants and Black defendants face more false positives (Engel et al., 2025). This raises the problem that a private company is making high-stakes normative decisions about liberty vs. security without public debate. Traditional legal safeguards (judicial discretion, legislative oversight, public debate) are being bypassed when judges cede their power and judgment to opaque algorithms.
 
-**Background**
+In most cases, however, it’s the input data that causes biased outcomes, not necessarily the algorithm itself. The Chicago Police Department's Crime and Victimization Risk Model (CVRM) shows an evaluation pattern in which 85% of those with the highest risk scores were Black males (Hung & Yen, 2023). One important thing to notice is that in the Chicago case, the evaluation system was based on arrest records rather than convictions (Hung & Yen, 2023), which means the suspects who were arrested had not necessarily committed crimes. This means that police actions play a crucial role in generating these arrests. In this case, individual police officers' own perspectives have a major impact on their actions. Considering the overpolicing experienced by racial minorities, particularly Black and Hispanic people (Boehme et al., 2022), arrest records would be significantly influenced by police deployment decisions, thereby affecting the algorithm's input and output.
 
-Why is this important?
-What work has previously been done?
-
-**Stakeholders**
-
-Who are the important stakeholders and what has your team done to take them into consideration?
-What are the use cases you’re building for?
-
-**Ethics**
-
-What are the ethical questions you considered as a team?
-How are you addressing them in your work?
+It might seem obvious that avoiding arrest data would reduce unfair outcomes. However, the reality is more complicated. Some systems (like PredPol) use citizen-reported crimes rather than arrest data, which excludes the potential bias caused by individual police officers' perspectives (Purves, 2022). However, due to the higher crime rate in poor neighborhoods, which typically have larger Black and Hispanic populations due to structural inequality, this still causes overpolicing in those neighborhoods, increases police contact with innocent residents, and intensifies police distrust (Purves, 2022).
+In this case, there are 3 major stakeholders: government (law enforcement agencies, judiciary, policy makers, legislators); civilians (minority neighborhoods, civil rights organizations); tech industry (private companies, data scientists, algorithm developers).
