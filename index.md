@@ -20,3 +20,17 @@ Algorithm bias in policing and crime prediction is significant and has already c
     style="border: 2px solid #667eea; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   </iframe>
 </div>
+
+<div style="margin: 30px 0; text-align: center;">
+  <a href="{{ site.url }}{{ site.baseurl }}/analysis" 
+     style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+            color: white; 
+            padding: 15px 30px; 
+            text-decoration: none; 
+            border-radius: 8px; 
+            font-weight: bold; 
+            display: inline-block;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    View Full Analysis →
+  </a>
+</div>
