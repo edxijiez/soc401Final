@@ -21,7 +21,7 @@ Algorithm bias in policing and crime prediction is significant and has already c
   </iframe>
 </div>
 
-<a href="{{ site.url }}{{ site.baseurl }}/method1" 
+<a href="{{ site.url }}{{ site.baseurl }}/analysis" 
    style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
           color: white; 
           padding: 15px 30px; 
